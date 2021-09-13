@@ -1,5 +1,8 @@
-#Print 1st movie
+#Print first movie
 print("Lord of the Rings")
 
-#print 2nd movie
+#Print 2nd movie
+print("Arrival")
+
+#Print 3rd movie
 print("Whiplash")
