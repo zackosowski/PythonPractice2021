@@ -1,8 +1,19 @@
-#Print first movie
-print("Lord of the Rings")
+def topFiveMovies():
+    #print the first movie
+    print("Lord of the Rings")
+    
+    #print second movie
+    print("Whiplash")
 
-#Print 2nd movie
-print("Arrival")
+    #print third movie
+    print("STALKER")
 
-#Print 3rd movie
-print("Whiplash")
+    #print fourth movie
+    print("Pacific Rim")
+
+    #print fifth movie
+    print("The Prestige")
+
+print("these are my top five movies.")
+topFiveMovies()
+
