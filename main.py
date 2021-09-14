@@ -1,19 +1,20 @@
+topFiveMovies()
+
+#define function
 def topFiveMovies():
-    #print the first movie
+    #print first movie
     print("Lord of the Rings")
-    
+
     #print second movie
     print("Whiplash")
 
     #print third movie
-    print("STALKER")
-
-    #print fourth movie
     print("Pacific Rim")
 
-    #print fifth movie
-    print("The Prestige")
+def topThreeSports():
+    print("Motocross")
+    print("Supercross")
+    print("Mountain Biking")
 
-print("these are my top five movies.")
-topFiveMovies()
+print("Avatar")
 
