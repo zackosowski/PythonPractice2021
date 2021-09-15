@@ -1,20 +1,15 @@
-topFiveMovies()
+#define a function that outputs your name
+#followed by "is my name"
+def myNameIs(turtle):
 
-#define function
-def topFiveMovies():
-    #print first movie
-    print("Lord of the Rings")
+    #output string
+    print(turtle + " is my name.")
 
-    #print second movie
-    print("Whiplash")
+#run function
+myNameIs("Osowski") 
+myNameIs("Frodo") 
+myNameIs("Gandalf") 
+myNameIs("Gimli") 
+myNameIs("Legolas") 
 
-    #print third movie
-    print("Pacific Rim")
-
-def topThreeSports():
-    print("Motocross")
-    print("Supercross")
-    print("Mountain Biking")
-
-print("Avatar")
 
